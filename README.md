@@ -6,7 +6,7 @@ Date: December 2025
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains the implementation and numerical experiments for the project on **Adaptive Numerical Integration**. The main goal is to demonstrate the theoretical ideas behind adaptive quadrature and reproduce the experiments described in the accompanying PDF report.
 
@@ -14,5 +14,5 @@ Adaptive numerical integration improves efficiency by refining the mesh only whe
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
