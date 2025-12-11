@@ -1,8 +1,8 @@
 # Adaptive Numerical Integration
 Numerical Methods in Calculus and Algebra — Project  
-Author: *Your Name*  
-Instructor: *Manfred K.*  
-Date: December 2025
+Author: *Tamir Mashbat*  
+Instructor: *Imre Fekete*  
+Date: December 11th 2025
 
 ---
 
